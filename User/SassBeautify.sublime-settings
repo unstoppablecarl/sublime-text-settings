@@ -1,0 +1,10 @@
+{
+    "indent": 4,
+    "dasherize": false,
+    "old": false,
+    "path": "/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin",
+    "beautifyOnSave": false,
+    "inlineComments": false,
+    "newlineBetweenSelectors": true,
+    "useSingleQuotes": true
+}

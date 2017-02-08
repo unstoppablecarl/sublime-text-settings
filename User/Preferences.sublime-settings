@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/User/sludge.tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"margin": 4,
+	"word_wrap": false
+}

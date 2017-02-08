@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AlignTab",
+		"EsFormatter",
+		"HTMLBeautify",
+		"Package Control",
+		"PackageResourceViewer",
+		"Pretty JSON",
+		"Pretty YAML",
+		"Sass",
+		"SassBeautify",
+		"ScopeHunter",
+		"Smart Title Case",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint"
+	]
+}

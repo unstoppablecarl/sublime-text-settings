@@ -1,0 +1,57 @@
+[
+    {
+        "keys": [
+            "super+ctrl+l"
+        ],
+        "command": "esformatter",
+        "context": [
+            {
+                "key": "selector",
+                "operator": "equal",
+                "operand": "source.js"
+            }
+        ]
+    },
+    {
+        "keys": [
+            "super+ctrl+l"
+        ],
+        "command": "pretty_json",
+        "context": [
+            {
+                "key": "selector",
+                "operator": "equal",
+                "operand": "source.json"
+            }
+        ]
+    },
+    {
+        "keys": [
+            "super+ctrl+l"
+        ],
+        "command": "html_beautify",
+        "context": [
+            {
+                "key": "selector",
+                "operator": "equal",
+                "operand": "text.html,text.html.twig,text.twig,source.html,source.html.twig,source.twig"
+            }
+        ]
+    },
+    {
+        "keys": [
+            "super+ctrl+l"
+        ],
+        "command": "sass_beautify",
+        "args": {
+            "action": "beautify"
+        },
+        "context": [
+            {
+                "key": "selector",
+                "operator": "equal",
+                "operand": "source.sass,text.sass,source.scss,text.scss,source.css,text.css"
+            }
+        ]
+    }
+]
